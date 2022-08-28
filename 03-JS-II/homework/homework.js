@@ -212,7 +212,6 @@ do {
 
 return numero;
 // expected result: "12345"
-
 }
 
 

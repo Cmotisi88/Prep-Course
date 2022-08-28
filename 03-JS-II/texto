@@ -1,0 +1,9 @@
+Instrucciones
+En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+
+for :  una condicion que se repite una cantidad de veces y nos muestra un resultado, hasta que la condicion sea falsa.
+&&, ||, ! :   estos operadores evaluan expreciones logicas.
+(&&) 2 o mas expresiones son verdaderas.
+(||)si una de las expreciones es verdadera.
+(!) si la exprecion es falsa, devuelve un resultado.
