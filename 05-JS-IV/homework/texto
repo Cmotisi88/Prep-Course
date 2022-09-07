@@ -1,0 +1,7 @@
+En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+Objetos : Contenedores de mucha informacion.
+Propiedades : caracteristicas unicas que contienen tipos de informacion
+Métodos : acciones que pueden hacer los objetos
+Bucle for…in : accion que permite recorrer las propiedades de un objeto
+Notación de puntos vs notación de corchetes : la notacion de puntos sirve para acceder a una propiedad de un objeto pero no podemos acceder a varias cadenas de texto, para eso utilizamo el corchete y comillas.
