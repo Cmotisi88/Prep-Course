@@ -4,4 +4,4 @@ Objetos : Contenedores de mucha informacion.
 Propiedades : caracteristicas unicas que contienen tipos de informacion
 Métodos : acciones que pueden hacer los objetos
 Bucle for…in : accion que permite recorrer las propiedades de un objeto
-Notación de puntos vs notación de corchetes : la notacion de puntos sirve para acceder a una propiedad de un objeto pero no podemos acceder a varias cadenas de texto, para eso utilizamo el corchete y comillas.
+Notación de puntos vs notación de corchetes : la notacion de puntos sirve para acceder a una propiedad de un objeto mas rapido y mas facil de leer, pero no podemos acceder a caracteres especiales , para eso utilizamo el corchete.
